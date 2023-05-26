@@ -1,0 +1,16 @@
+
+.banner{
+    background-color : darkslategray;
+    width : 100%;
+    height : 100px;
+}
+
+.bannerText1 {
+font-style: oblique;
+font-weight: bold;
+top: 50%;
+left :50%;
+transform: transform;
+text-align: center;
+}
+
